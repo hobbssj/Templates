@@ -3,17 +3,23 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "shstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "SH23484"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "SizeofDiskInGB": {
+      "value": "20"
+     }
   }
 }
 
